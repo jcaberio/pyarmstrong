@@ -11,7 +11,7 @@ Installation
 ------------
 
 ```
-pip install pyarmstrong
+$ pip install pyarmstrong
 ```
 
 Usage
