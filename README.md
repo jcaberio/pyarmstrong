@@ -7,6 +7,13 @@ An Armstrong number is an n-digit number that is equal to the sum of the nth pow
 
 For example, 371 is an Armstrong number since 3<sup>3</sup> + 7<sup>3</sup> + 1<sup>3</sup> = 371
 
+Installation
+------------
+
+```
+pip install pyarmstrong
+```
+
 Usage
 -----
 
