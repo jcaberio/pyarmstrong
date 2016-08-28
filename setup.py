@@ -5,6 +5,8 @@ setup(name='pyarmstrong',
       description = 'Simple C extension for checking armstrong numbers.',
       author = 'Jorick Caberio',
       author_email = 'jorick.caberio@voyagerinnovation.com',
+      url = 'https://github.com/jcaberio/pyarmstrong',
+      download_url = 'https://github.com/jcaberio/pyarmstrong/tarball/0.1',
       ext_modules=[
         Extension('pyarmstrong',
                   sources =  ['armstrong.c'],
