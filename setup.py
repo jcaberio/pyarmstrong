@@ -11,5 +11,16 @@ setup(name='pyarmstrong',
                   include_dirs = ['/usr/include'],
                   library_dirs = ['/usr/lib'],
                   )
+      ],
+      classifiers=[
+        'Programming Language :: Python',
+	'Programming Language :: Python :: 3',
+        'Development Status :: 4 - Beta',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+        'Programming Language :: C',
+        'Topic :: Software Development',
+        'Topic :: Software Development :: Libraries :: Python Modules'
       ]
 )
